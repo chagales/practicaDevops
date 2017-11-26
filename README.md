@@ -1,7 +1,13 @@
 
 # NodePop
 
-[Demo](/anuncios) of the methods (this link works only if you run the project)
+Practica clonada de https://bitbucket.org/agbo/agbo-master-nodejs-practica-web.git 
+
+Para ver la demo de esta ver el enlace a continuación (*** despliegue para practica DEvOps ***)
+
+http://ec2-18-217-62-54.us-east-2.compute.amazonaws.com/
+
+
 
 Api for the iOS/Android apps.
 
